@@ -1,0 +1,13 @@
+라우터
+/ 메인
+/auth/login 로그인
+      /join 회원가입
+/article/write 글쓰기
+/user/profile/info 유저 정보
+      /profile/edit 유저 정보 편집
+
+
+인기 글
+최신 글
+사진
+
